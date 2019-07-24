@@ -26,7 +26,7 @@ end
 
 def long_planeteer_calls(array)
   i = 0 
-  if array.any? 
+  if array.any? {|i| 
   # Your code here
 end
 
